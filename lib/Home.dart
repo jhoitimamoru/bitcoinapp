@@ -41,7 +41,7 @@ class _HomeState extends State<Home> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              Image.asset("Irmagens/bitcoin.png"),
+              Image.asset("Imagens/bitcoin.png"),
               Padding(
                 padding: const EdgeInsets.only(top: 30, bottom: 30),
                 child: Text(
