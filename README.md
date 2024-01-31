@@ -8,4 +8,4 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: Imagens/tela1.png
+[product-screenshot]: Imagens/tela1.PNG
