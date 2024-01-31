@@ -9,7 +9,7 @@ O API utilizado foi do https://blockchain.info/ticker.</br>
 
 
 <p align="center">
-<a> tela do app </a>
+<a> tela do app </a> </br>
 <img src="https://github.com/jhoitimamoru/bitcoinapp/blob/master/Imagens/tela1.PNG">
 </p>
 
