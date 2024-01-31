@@ -4,6 +4,8 @@
 
 ## Getting Started
 
-<a href="https://github.com/jhoitimamoru/bitcoinapp">
-    <img src="Imagens/tela1.PNG" alt="Logo" width="80" height="80">
-</a>
+[![Product Name Screen Shot][product-screenshot]]
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[product-screenshot]: Imagess/tela1.png
