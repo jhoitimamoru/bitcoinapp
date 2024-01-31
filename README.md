@@ -7,9 +7,9 @@ O API utilizado foi do https://blockchain.info/ticker.</br>
 ## Getting Started
 
 Tela do APP.
-
-<img src="https://github.com/jhoitimamoru/bitcoinapp/blob/master/Imagens/tela1.PNG" alt="Logo da Minha Empresa">
-
+<p align="center">
+<img src="https://github.com/jhoitimamoru/bitcoinapp/blob/master/Imagens/tela1.PNG" alt="Logo da Minha Empresa" >
+</p>
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: Imagens/tela1.PNG
