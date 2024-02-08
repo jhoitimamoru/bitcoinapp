@@ -7,13 +7,18 @@ import 'dart:convert';
 
 class Home extends StatefulWidget {
   const Home({super.key});
-
   @override
   State<Home> createState() => _HomeState();
 }
 
 class _HomeState extends State<Home> {
-  String _preco = "10,5";
+  String _preco = "";
+  @override
+  void initState() {
+    // TODO: implement initState
+    super.initState();
+    _recuperarPreco();
+  }
 
   void _recuperarPreco() async {
     var url = Uri.parse('https://blockchain.info/ticker');
