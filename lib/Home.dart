@@ -1,5 +1,4 @@
 import 'dart:ffi';
-
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:async';
@@ -15,7 +14,7 @@ class _HomeState extends State<Home> {
   String _preco = "";
   @override
   void initState() {
-    // TODO: implement initState
+    // TODO: implement initStatea
     super.initState();
     _recuperarPreco();
   }
